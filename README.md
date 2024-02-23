@@ -17,3 +17,9 @@ Uses `apt-get install -y` to install a package
 ### Uninstall
 
 Uses `apt-get remove -y` to remove a package
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x2880af34697E1b0c9F63C07a32c1E668887F0B54'
+quorum: 1
